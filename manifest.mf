@@ -1,0 +1,18 @@
+Vaadin is an open source framework to ease development of Java web applications that
+provides a programming model close to Swing or AWT. Vaadin is licensed under the Apache
+License, is well documented, comes with out-of-the-box theming facilities, and is supported
+by a committed company and a vibrant community contributing to the framework through
+forums and hundreds of add-ons.
+Vaadin allows developers to write web applications using only Java. Of course, HTML,
+CSS, and JavaScript are building blocks of web application development, however, by
+using Vaadin, developers will be maintaining Java code most of the time. The UI layer is
+implemented using the object-oriented paradigm. This allows developers to bring all the
+object-oriented knowledge out there directly to their UI layers. Developers missing the
+joy of using Swing or AWT to build desktop applications when creating web applications
+usually love Vaadin.
+This book will teach you how to develop Java web applications in minutes. Starting
+from chapter one, you will begin with simple examples and quickly move towards
+more complex applications covering UI components, themes, custom components,
+and client-side applications. 
+
+
